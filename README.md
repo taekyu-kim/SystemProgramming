@@ -1,17 +1,21 @@
 System Programming Project
 -
 
-> SP-Project 1 - 'My Shell' Program
+> SP Project 1
+
+This Project is implementing several data structures such as linked list, bitmap
+
+> SP Project 2 - 'My Shell' Program
 
 This Project is implementing the Background Process Management of common real-world Linux Shell. I developed this program based on a deep understanding of signal handling. More details are on the Document file attached.
 
 
-> SP-Project 2 - 'Event-based & Thread-based Concurrent Stock Server' Program
+> SP Project 2 - 'Event-based & Thread-based Concurrent Stock Server' Program
 
 This Project is implementing the Event-based & Thread-based Concurrent Stock Server. I developed this program based on a deep understanding of I/O Multiplexing, Thread Programming, Concurrency, Producer-Consumer Problem, Readers-Writers Problem. More details are on the Document file attached.
 
 
-> SP-Project 3 - 'Dynamic Memory Allocator' Program
+> SP Project 4 - 'Dynamic Memory Allocator' Program
 
 (commonly known as malloc-lab project from CMU, and I got 94/100 score)
 
