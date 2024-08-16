@@ -3,7 +3,7 @@ System Programming Project
 
 > SP Project 1
 
-This Project is implementing several data structures such as linked list, bitmap
+This Project is implementing simple several data structures such as linked list, hash table and bitmap. 
 
 > SP Project 2 - 'My Shell' Program
 
